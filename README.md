@@ -1,4 +1,4 @@
-## GuardJS
+### GuardJS
 GuardJS is a lightweight Runtime Safety Engine for JavaScript and TypeScript applications.
 
 Instead of only validating data, GuardJS focuses on:
